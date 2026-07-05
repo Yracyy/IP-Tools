@@ -1,12 +1,12 @@
 # IP Tools
 
-A single-page, client-side toolkit for common IP addressing tasks — subnet calculation, address format conversion, IP range expansion, and a CIDR quick-reference table. No frameworks, no build step, no server calls.
+A single-page, client-side toolkit for common IP addressing tasks, subnet calculation, address format conversion, IP range expansion, and a CIDR quick-reference table. No frameworks, no build step, no server calls.
 
-**[Live Demo](#)** *(enable GitHub Pages — see below — and drop the link here)*
+**[Live Demo](https://yracyy.github.io/IP-Tools/)**
 
 ## Why I built this
 
-Studying for networking certs (CCNA) means doing subnet math constantly — network/broadcast addresses, usable host ranges, converting between decimal/hex/binary. Online subnet calculators exist, but I wanted one built myself: partly to actually understand the bit math behind subnetting instead of trusting a black box, and partly to have something concrete for my resume alongside my PowerShell projects.
+Studying for networking certs (CCNA) means doing subnet math constantly — network/broadcast addresses, usable host ranges, converting between decimal/hex/binary. Online subnet calculators exist, but I wanted one built myself: partly to actually understand the bit math behind subnetting.
 
 ## Features
 
@@ -32,15 +32,7 @@ Plain HTML, CSS, and vanilla JavaScript. No dependencies beyond Google Fonts and
 
 ## Usage
 
-**Option 1 — Just open it:**
 Download `index.html` and open it directly in any browser. No installation needed.
-
-**Option 2 — Host it for free with GitHub Pages** *(recommended for your resume — gives you a live link)*:
-1. Push this repo to GitHub with the file named `index.html`
-2. Go to **Settings → Pages**
-3. Under **Source**, select the `main` branch and `/ (root)` folder
-4. Save — GitHub will give you a live URL like `https://yourusername.github.io/ip-tools/`
-5. Add that link to your resume/portfolio instead of just the repo link — a working demo is more impressive than code alone
 
 ## Notes on the math
 
