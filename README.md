@@ -22,9 +22,6 @@ Enter a start and end IP and get every address in between listed out with decima
 ### 📊 CIDR Reference Table
 Full `/0` through `/32` table — subnet mask, wildcard mask, and usable host count for every prefix length. Click any entry to copy its subnet mask.
 
-## Tech
-
-Plain HTML, CSS, and vanilla JavaScript. No dependencies beyond Google Fonts and Font Awesome (loaded via CDN for icons/typography only — all IP math is done locally in-browser, nothing is sent anywhere).
 
 ## Usage
 
