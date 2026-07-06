@@ -27,10 +27,6 @@ Full `/0` through `/32` table — subnet mask, wildcard mask, and usable host co
 
 Download `index.html` and open it directly in any browser. No installation needed.
 
-## Notes on the math
-
-- IPs are converted to 32-bit unsigned integers for all calculations, using bitwise operations (`>>>`, `<<`) rather than string manipulation — this is the same approach used internally by real networking tools.
-- The binary visualization directly shows the network/host bit split, which is the core concept subnet masking is built on.
 
 ## License
 
