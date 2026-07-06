@@ -4,10 +4,6 @@ A single-page, client-side toolkit for common IP addressing tasks, subnet calcul
 
 **[Live Demo](https://yracyy.github.io/IP-Tools/)**
 
-## Why I built this
-
-Studying for networking certs (CCNA) means doing subnet math constantly — network/broadcast addresses, usable host ranges, converting between decimal/hex/binary. Online subnet calculators exist, but I wanted one built myself: partly to actually understand the bit math behind subnetting.
-
 ## Features
 
 ### 🧮 Subnet Calculation
